@@ -6,7 +6,7 @@
 Todo en el main directamente
 
 ### Claudiu hara el "Si son del mismo año"
-En ficehro MismoYear funcion mismoAño
+En ficehro MismoYear funcion mismoYear
 
 ### Bianca hara el "Si son de distinto año"
-En ficehro DistintoYear funcion distintoAño
+En ficehro DistintoYear funcion distintoYear
