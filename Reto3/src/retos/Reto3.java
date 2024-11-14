@@ -20,7 +20,12 @@ public class Reto3 {
 			if (fecha1.isBefore(fecha2)) {
 				break;
 			} System.out.println("Incorrecto, intentálo de nuevo.");
-				
+		}
+		
+		if(fecha1.getYear() == fecha1.getYear()) {
+			MismoYear.mismoYear(fecha1, fecha2, sc);
+		} else {
+			// aqui se llamaria a Distinto year
 		}
 	}
 
